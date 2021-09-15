@@ -22,7 +22,16 @@ html{
   padding:5%;
 }
 
-
+body{
+	background-color: hsla(190, 51%, 65%,0.5);
+	color: hsla(180, 100%, 100%, 0.5);
+}
+header h1{
+	background-color: hsla(10, 100%, 80%, 0.9);
+}
+div.preamble,div.requirements,div.benefits{
+	background-color: hsla(30, 100%, 80%, 0.9);
+}
 /** 02 Typography -- Font  **/
 body{
   font-family: "tablet-gothic-condensed",verdana, arial, sans-serif; 
